@@ -1,0 +1,17 @@
+
+# Compiled executables
+hello
+*.out
+*.o
+*.a
+*.dylib
+*.so
+
+# macOS debug symbols
+*.dSYM/
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
