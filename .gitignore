@@ -1,17 +1,21 @@
-
 # Compiled executables
-hello
-*.out
+/bin/
+build/
 *.o
-*.a
-*.dylib
-*.so
+*.out
+a.out
 
 # macOS debug symbols
 *.dSYM/
 
-# VS Code
-.vscode/
-
 # macOS system files
 .DS_Store
+.AppleDouble
+
+# Temporary files
+*.swp
+*.swo
+*~
+# Root-level compiled executables
+/hello
+/1858A-Buttons
